@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba6643ef-e77c-450c-b6ba-65064ef7c872" name="Changes" comment="" />
+    <list default="true" id="ba6643ef-e77c-450c-b6ba-65064ef7c872" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_With_Random_Values_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_With_Random_Values_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input_Array_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input_Array_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Largest_value_in_an_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Largest_value_in_an_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Print_Array_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Print_Array_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search_value_in_array_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search_value_in_array_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sum_of_array_elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum_of_array_elements.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -21,6 +42,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,8 +58,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694473029069</updated>
-      <workItem from="1694473030148" duration="1000" />
+      <workItem from="1694473030148" duration="4004000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
